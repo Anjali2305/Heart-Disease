@@ -2,12 +2,12 @@
 Here are some Data Science and  Machine Learning Projects
 
 # Project-1
-## Predicting Heart Disease using Machine Learning
+# Predicting Heart Disease using Machine Learning
 This notebook will introduce some foundation machine learning and data science concepts by exploring the problem of heart disease **classification**.
 
 It is intended to be an end-to-end example of what a data science and machine learning **proof of concept** might look like.
 
-# 1. Problem Definition
+## 1. Problem Definition
 In our case, the problem we will be exploring is **binary classification** (a sample can only be one of two things). 
 
 This is because we're going to be using a number of differnet **features** (pieces of information) about a person to predict whether they have heart disease or not.
@@ -16,7 +16,7 @@ In a statement,
 
 > Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
-# 2. Data
+## 2. Data
 
 What you'll want to do here is dive into the data your problem definition is based on. This may involve, sourcing, defining different parameters, talking to experts about it and finding out what you should expect.
 
@@ -32,7 +32,7 @@ Attributes and features are also referred to as **independent variables** and a 
 
 Or in our case, the independent variables are a patients different medical attributes and the dependent variable is whether or not they have heart disease.
 
-# 3. Evaluation
+## 3. Evaluation
 
 The evaluation metric is something you might define at the start of a project.
 
@@ -44,13 +44,13 @@ The reason this is helpful is it provides a rough goal for a machine learning en
 
 However, due to the nature of experimentation, the evaluation metric may change over time.
 
-# 4. Features
+## 4. Features
 
 Features are different parts of the data. During this step, you'll want to start finding out what you can about the data.
 
 One of the most common ways to do this, is to create a **data dictionary**.
 
-### Heart Disease Data Dictionary
+## Heart Disease Data Dictionary
 
 A data dictionary describes the data you're dealing with. Not all datasets come with them so this is where you may have to do your research or ask a **subject matter expert** (someone who knows about the data) for more.
 
